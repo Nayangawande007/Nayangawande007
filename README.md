@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nayan
 - 👀 I’m interested in ...Coding, Traveling,Exploring new things
-- 🌱 I’m currently learning ...Optimization of coding 
+- 🌱 I’m currently learning ...React 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
